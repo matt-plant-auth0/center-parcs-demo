@@ -1,0 +1,2666 @@
+<!doctype html>
+
+<html lang="en-GB" data-region="uk" dir="ltr" class="uxp-sitename-centerparcs uxp-wcmmode-disabled uxp-pagename-accommodation uxp-template-standard ">
+<head>
+    
+    
+    <meta charset="utf-8"/>
+    <title>Accommodation | Center Parcs</title>
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="robots" content="noindex, nofollow"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/favicon.ico"/>
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/apple-touch-icon.png"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/favicon-32x32.png" sizes="32x32"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/favicon-16x16.png" sizes="16x16"/>
+    <link rel="manifest" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/manifest.json"/>
+    <link rel="mask-icon" href="/etc.clientlibs/centerparcs/clientlibs/main/resources/images/svgs/safari-pinned-tab.svg" color="#00783d"/>
+    <link rel="preconnect" href="//cdns.gigya.com"/>
+    <link rel="preconnect" href="//fonts.gstatic.com"/>
+
+    <link rel="stylesheet" href="https://use.typekit.net/tcv1atc.css" media="print" onload="this.media='all'; this.onload=null;"/>
+    <noscript><link rel="stylesheet" href="https://use.typekit.net/tcv1atc.css"/></noscript>
+
+    
+     
+    
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-critical.min.ACSHASHd627b2d6264ee65be123bc5b165303d4.css" type="text/css">
+
+
+     
+
+    
+
+    <meta name="theme-color" content="#ffffff"/>
+
+
+
+
+    <script>window.CQ = window.CQ || {}</script>
+
+
+
+    
+
+    
+    
+<link rel="stylesheet" href="/libs/wcm/foundation/components/page/responsive.min.ACSHASHdd681ee257834c2b1fb20fb9af28568b.css" media="print" type="text/css" onload="this.media='all'">
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH925d9dd7c937c3fc9f02cd2de4c65088.css" media="print" type="text/css" onload="this.media='all'">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/conf/centerparcs/settings/cloudsettings/centerparcs/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/content\/centerparcs\/uk\/en\/information\/accessibility\/woburn\u002Dforest\/accommodation\/_jcr_content\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/conf\/centerparcs\/uk\/settings\/wcm\/segments";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/S/SY-kG1AC-owC_x1tQu9X";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings.kernel.js/conf/centerparcs/settings/cloudsettings/centerparcs/contexthub" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+    
+
+
+        <script type="text/javascript" src="//assets.adobedtm.com/b7ba862e918a5b16ff172dcbac8d292dc2ea5a40/satelliteLib-3b6edf721f877b0dc530c96d328766101f7b0f46.js"></script>
+
+
+
+
+    <script>
+        window.adobeDataLayer = window.adobeDataLayer || [];
+    </script>
+</head>
+<body data-cmp-data-layer-enabled="true">
+    <div class="b-skip-navigation"><a href="#maincontent">Skip to Main Content</a></div>
+    <div id="unsupported-browser-message" class="unsupported-browser-message__container notification" style="display:none">
+    <span class="icon-icon-tip"></span>
+    <p>
+        
+            We may not support the current browser you are using or private browsing is turned on. For the best experience we recommend you use one of our supported browsers with private browsing turned off.
+        
+    </p>
+</div>
+<script>
+/*@cc_on
+  @if (@_jscript_version <= 10)
+    document.getElementById("unsupported-browser-message").style.display = "block"
+  @end
+@*/
+</script>
+
+
+    
+
+     <div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header aem-GridColumn aem-GridColumn--default--12"><noscript>
+    
+        <div>
+    <div class="notification error js- ">
+        <span class="notification__icon icon-notification-error"></span>
+        <div class="notification__copy">This site requires JavaScript to be enabled.</div>
+        
+    </div>
+</div>
+    
+</noscript>
+
+<header class="header no-js">
+    <div class="wrapper">
+        <span class="header__logo"><a href="/" title="Center Parcs | Family &amp; Short Breaks in the UK " class="logo uk">
+                <span class="u-visually-hidden">Center Parcs | Family &amp; Short Breaks in the UK </span>
+        </a></span>
+
+        <a href="#" class="header__icon header__icon--hamburger"> <span class="material-icons nav__hamburger">menu</span>
+        </a>
+
+        <ul class="header__actions">
+        
+            <li class="nav__item nav__item--itinerary-planner hidden">
+                <div class="activity-itinerary">
+                    <button class="cta cta--small itinerary-planner">
+                        <span class="icon-sb-calendar" aria-hidden="true"></span>
+                    </button>
+                    <div class="activity-itinerary--modal hide">
+                        <div class="activity-itinerary--iframe">
+                            <button class="activity-itinerary__close">
+                                <em class="material-icons">close</em>
+                                <span class="icon-chevron-left go-back__icon"></span>
+                                <span class="go-back__icon--text">Back</span>
+                            </button>
+
+                            <iframe ref="itineraryIframe" title=" modal" data-src="/content/centerparcs/uk/en/my-account/mybooking/upComingBooking/itinerary-modal"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__item nav__item--tutorial hidden"> <div><div class="sitetour" data-next-label="Next" data-previous-label="Previous" data-end-label="End" data-generic-title="Need help?" data-dont-show-generic-label="Don&#39;t show again" data-generic-description="When this icon appears on a page, you can click it to activate tutorials that will guide you through a feature." data-start-tour-label="Start tour">
+    <button type="button" title="help icon" aria-haspopup="true" aria-labelledby="help-icon" class="btn btn--tutorial">
+        <div class="sb-input-icon icon-help"></div>
+    </button>
+
+</div>
+    
+    
+
+</div> </li>
+            <li class="nav__item nav__item--basket hidden">
+                <a href="#" class="nav__item__link js-toggle-basket-nav">
+                    <div class="avatar__wrapper">
+                        <div class="avatar__counter"></div>
+                        <div class="avatar basket__avatar">
+                            <span class="basket__icon icon-basket"></span>
+                        </div>
+                    </div>
+                    <span class="basket__cta__price"></span>
+                </a>
+                <div id="v-basket-expiry" tabindex="0" class="popup-alert basket__expiry" :class="{ 'hide': !showBasketExpiry, 'show': showBasketExpiry }">
+                    <div>
+                        <span>You have items in your basket that will expire - don&#39;t miss out, checkout now.</span>
+                        <button class="btn basket__expiry__close close-popup">x</button>
+                    </div>
+                </div>
+             </li>
+          
+            <li class="nav__item nav__item--profile hide">
+                <a href="#" class="nav__item__link js-toggle-primary-nav">
+                    <div class="avatar__wrapper">
+                        <div class="avatar">
+                            <p class="avatar__initials">CP</p>
+                        </div>
+                    </div>
+                    <span class="subnav__myprofile__username"></span>
+                    <span class="subnav__myprofile__username--short"></span>
+                    <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+                    <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+                </a>
+                <div class="subnav__wrapper nav__wrapper--narrow subnav__wrapper--closed">
+                    <div class="subnav__inner-wrapper">
+                        <ul class="nav__subnav">
+                            
+                                <li class="nav__subnav__item"><a href="/myaccount/myprofile.html">My profile</a></li>
+                            
+                            <li class="nav__subnav__item nav__subnav--gap"><a href="https://www.centerparcs.co.uk/my-account/sign-in.html" class="js-cp-logout-user">Sign Out</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+            <li class="nav__item signedout-btn hide header__btn" id="header-btn">
+                <a class="btn btn--outline" href="https://www.centerparcs.co.uk/my-account/sign-in.html?account&resource=https%3A%2F%2Fwww.centerparcs.co.uk%2Finformation%2Faccessibility%2Fwoburn-forest%2Faccommodation.html" target="">
+                    <span>Sign In</span>
+                </a>
+                
+            </li>
+        </ul>
+        <!--  Navigation section including My Bookings and Logged in User-->
+        
+    <div class="global-navigation-xfpage xfpage page basicpage">
+    
+
+
+
+<div class="xf-centerparcs xf-content-height">
+    <nav class="nav primary-nav" id="nav">
+        <div class="nav__list">
+            
+                
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigation-menu aem-GridColumn aem-GridColumn--default--12">
+    <ul class="nav__list container" role="menubar">
+        
+            <li class="nav__item" role="none">
+                <a role="menuitem" tabindex="0" href="#" aria-haspopup="true" aria-expanded="false" class="nav__item__link js-toggle-primary-nav">Discover Center Parcs
+                    <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+                    <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+                </a>
+                <div role="presentation" class="subnav__wrapper subnav__wrapper--closed">
+                    <div role="presentation" class="subnav__inner-wrapper">
+                        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h4"><strong></strong></span><strong><span class="h5">Center Parcs explained</span></strong></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/short-family-breaks.html" role="menuitem">The Center Parcs experience</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/break-durations.html" role="menuitem">Break durations</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/short-family-breaks/whats-included.html" role="menuitem">What&#39;s included</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/short-family-breaks/meet-our-guests.html" role="menuitem">Meet our guests</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/village-news/general-news.html" role="menuitem">General news</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/information/gift-cards.html" role="menuitem">Gift cards</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Breaks we offer</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/types-of-break.html" role="menuitem">Types of breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/school-holiday-breaks.html" role="menuitem">School holidays breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/special-offers.html" role="menuitem">Special offers</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/last-minute-holidays/view-breaks.html" role="menuitem">Last minute breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/book-early.html" role="menuitem">Book early</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/types-of-break/family-holidays.html" role="menuitem">Family breaks</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Seasonal breaks   </span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/seasonal-holidays-and-breaks/spring-holidays.html" role="menuitem">Spring breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/school-holiday-breaks/summer-school-holidays.html" role="menuitem">Summer breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/seasonal-holidays-and-breaks/autumn-holidays.html" role="menuitem">Autumn breaks</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/breaks-we-offer/winter-and-festive-breaks.html" role="menuitem">Winter and Festive breaks</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+
+    
+</div>
+
+                    </div>
+                </div>
+            </li>
+        
+            <li class="nav__item" role="none">
+                <a role="menuitem" tabindex="-1" href="#" aria-haspopup="true" aria-expanded="false" class="nav__item__link js-toggle-primary-nav">Locations
+                    <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+                    <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+                </a>
+                <div role="presentation" class="subnav__wrapper subnav__wrapper--closed">
+                    <div role="presentation" class="subnav__inner-wrapper">
+                        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Our UK villages</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations.html" role="menuitem">Locations overview</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/whinfell-forest.html" role="menuitem">Whinfell Forest, Cumbria</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/sherwood-forest.html" role="menuitem">Sherwood Forest, Nottinghamshire</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/longleat-forest.html" role="menuitem">Longleat Forest, Wiltshire</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/elveden-forest.html" role="menuitem">Elveden Forest, Suffolk</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/woburn-forest.html" role="menuitem">Woburn Forest, Bedfordshire</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/village-news.html" role="menuitem">Village news</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Our Irish village</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/holiday-locations/longford-forest.html" role="menuitem">Longford Forest, County Longford</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/village-news/longford-news.html" role="menuitem">Longford Forest news</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+
+    
+</div>
+
+                    </div>
+                </div>
+            </li>
+        
+            <li class="nav__item" role="none">
+                <a role="menuitem" tabindex="-1" href="#" aria-haspopup="true" aria-expanded="false" class="nav__item__link js-toggle-primary-nav">Accommodation
+                    <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+                    <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+                </a>
+                <div role="presentation" class="subnav__wrapper subnav__wrapper--closed">
+                    <div role="presentation" class="subnav__inner-wrapper">
+                        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Types of accommodation</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays.html" role="menuitem">Accommodation overview</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/woodland-lodges.html" role="menuitem">Woodland Lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/executive-lodges.html" role="menuitem">Executive Lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/luxury-exclusive-lodges.html" role="menuitem">Exclusive Lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/waterside-lodges.html" role="menuitem">Waterside Lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/luxury-treehouse-holidays.html" role="menuitem">Treehouses</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<p data-emptytext="Text"></p>
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/hotels-and-apartments.html" role="menuitem">Hotels and Apartments</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/dog-friendly-lodges.html" role="menuitem">Dog friendly lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/adapted-lodges.html" role="menuitem">Adapted lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/6-bed-woodland-lodge.html" role="menuitem">6-bedroom Woodland Lodges</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/lodge-holidays/accommodation-type/luxury-spa-suites.html" role="menuitem">Luxury Spa Suites</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+
+    
+</div>
+
+                    </div>
+                </div>
+            </li>
+        
+            <li class="nav__item" role="none">
+                <a role="menuitem" tabindex="-1" href="#" aria-haspopup="true" aria-expanded="false" class="nav__item__link js-toggle-primary-nav">Things to do
+                    <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+                    <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+                </a>
+                <div role="presentation" class="subnav__wrapper subnav__wrapper--closed">
+                    <div role="presentation" class="subnav__inner-wrapper">
+                        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Discover our things to do</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/discover-things-to-do.html" role="menuitem">Things to do overview</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/activities.html" role="menuitem">Activities</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/activities/subtropical-swimming-paradise.html" role="menuitem">Subtropical Swimming Paradise</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/restaurants.html" role="menuitem">Food and drink</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/shops/cycle-centre.html" role="menuitem">Cycle Centre</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/shops.html" role="menuitem">Shopping</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/activities/seasonal-activities.html" role="menuitem">Seasonal activities</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/center-parcs-spa.html" role="menuitem">Aqua Sana Spa</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<p data-emptytext="Text"></p>
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+            <a tabindex="-1" href="/discover-center-parcs/things-to-do.html/-/activities" data-href-alias="/discover-center-parcs/things-to-do.html" data-dynamic-attr-href="true" role="menuitem">Browse all activities</a>
+        
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+            <a tabindex="-1" href="/discover-center-parcs/things-to-do.html/-/restaurants" data-href-alias="/discover-center-parcs/things-to-do.html" data-dynamic-attr-href="true" role="menuitem">Browse all restaurants</a>
+        
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+            <a tabindex="-1" href="/discover-center-parcs/things-to-do.html/-/spastreatments" data-href-alias="/discover-center-parcs/things-to-do.html" data-dynamic-attr-href="true" role="menuitem">Browse all spa treatments</a>
+        
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+
+    
+</div>
+
+                    </div>
+                </div>
+            </li>
+        
+        
+            
+<li class="nav__item" role="none">
+    <a role="menuitem" tabindex="-1" href="/my-account/sign-in.html/myBooking" class="nav__item__link ">My booking
+        <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+        <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+    </a>
+    <div role="presentation" class="subnav__wrapper subnav__wrapper--closed">
+        <div role="presentation" class="subnav__inner-wrapper">
+            
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	
+</ul>
+
+    
+
+</div>
+<div class="cmp cmp-list aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<ul class="nav__subnav" role="menu">
+	
+	<li class="nav__subnav__item text"/>
+<h3><span class="h5">Useful links</span></h3>
+
+
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/short-family-breaks/whats-included.html" role="menuitem">What&#39;s included</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/discover-center-parcs/short-family-breaks/what-to-do-on-arrival.html" role="menuitem">What to do on arrival</a>
+        
+    </li>
+
+
+	
+		
+		
+
+    <li class="nav__subnav__item " role="none">
+        
+        
+            <a tabindex="-1" href="/information/safety-information.html" role="menuitem">Safety information</a>
+        
+    </li>
+
+
+	
+</ul>
+
+    
+
+</div>
+
+    
+</div>
+
+        </div>
+    </div>
+</li>
+
+
+
+
+        
+    </ul>
+    
+
+</div>
+
+    
+</div>
+
+            
+            
+<li class="nav__item nav__item--profile hide">
+    <a href="#" class="nav__item__link js-toggle-primary-nav">
+        <div class="avatar__wrapper">
+            <div class="avatar">
+                <p class="avatar__initials">CP</p>
+            </div>
+        </div>
+        <span class="subnav__myprofile__username"></span>
+        <span class="material-icons nav__chevron nav__chevron--down">keyboard_arrow_down</span>
+        <span class="material-icons nav__chevron nav__chevron--up">keyboard_arrow_up</span>
+    </a>
+    <div class="subnav__wrapper nav__wrapper--narrow subnav__wrapper--closed">
+        <div class="subnav__inner-wrapper">
+            <ul class="nav__subnav">
+                
+                    <li class="nav__subnav__item"><a href="/myaccount/myprofile.html">My profile</a></li>
+                
+                <li class="nav__subnav__item nav__subnav--gap"><a href="https://www.centerparcs.co.uk/my-account/sign-in.html" class="js-cp-logout-user">Sign Out</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</li>
+
+    <li class="nav__item nav__item--basket hidden">
+        <a href="#" class="nav__item__link js-toggle-basket-nav">
+            <div class="avatar__wrapper">
+                <div class="avatar__counter"></div>
+                <div class="avatar basket__avatar">
+                    <span class="basket__icon icon-basket"></span>
+                </div>
+            </div>
+            <span class="basket__cta__price"></span>
+        </a>
+    </li>
+
+
+        </div>
+    </nav>
+</div>
+</div>
+
+
+
+    </div>
+
+    <div class="l-path-info__externalized-path hidden">
+        /information/accessibility/woburn-forest/accommodation.html
+    </div>
+</header>
+<a id="maincontent" tabindex="-1"></a>
+
+<div class="header__basket">
+    
+    
+    
+
+    
+    <div id="v-basket-bundle">
+    <div class="receipt-bundle__added receipt__wrapper basket__wrapper">
+      <table class="receipt">
+        <tbody class="receipt__group basket__activities--list">
+          <tr class="receipt__row--header basket__row--header">
+            <th class="receipt__header receipt__header--title">My Basket</th>
+            <th class="receipt__header">Date</th>
+            <th class="receipt__header">Time</th>
+            <th class="receipt__header receipt__header--quantity">Quantity</th>
+            <th class="receipt__header receipt__header--price">Total Price</th>
+            <th class="receipt__header">Held Until</th>
+            <th class="receipt__header receipt__header--action receipt__header--remove"></th>
+          </tr>
+          <tr :class="'receipt__row basket__row ' + booking.key" v-for="(booking, index) in formattedBundleBooking" v-if="booking.parent">
+            <td data-th="Item" class="receipt__data AB-card--multiple">
+              <div class="detail__desktop">
+                <div class="AB-card__image">
+                  <div class="basket__img basket__img--cover" v-for="(booking, index) in booking.children" :style="'background-image:url(' + escape(booking.icon || booking.thumbnailImage) + ')'">
+                    <span class="sr-only">Image for {{booking.activityDesc}}</span>
+                  </div>
+                </div>
+                <div class="basket__item-description">
+                  <div>
+                  <input :class="'checkboxToggle activityBundlesToggleAll hidden '" type="checkbox" :id="'toggleActivityBundlesAll' + booking.checked" v-model="checked[booking.checked].index" name="toggleActivityBundlesAll" role="button" @focus="currentlabel=booking.checked"/>
+                  <label :class="'ABToggleLabel ' + (currentlabel == booking.checked? 'label--focus' : '')" :id="'toggleActivityBundlesAll' + booking.checked " :for="'toggleActivityBundlesAll' + booking.checked" v-on:click="scrollPosition">
+                    {{ booking.multiBuyDescription }} (2 Activities)
+                    <span class="sr-only">Press space to expand or collapse the activities</span>
+                    <span :class="'ABToggleLabel--icon orange ' + (checked[booking.checked].index ? 'icon--rotate' : '')"></span>
+                  </label>
+                  </div>
+                </div>
+              </div>
+              <div class="detail__mobile">
+                <span class="basket__item-description">
+                    <label class="ABToggleLabel">{{ booking.multiBuyDescription }} (2 Activities)</label></span>
+                  <div v-for="current in booking.children">
+                    <span class="receipt__data__title">{{current.activityDesc}} </span>
+                    <br/>
+                    {{current.location || ''}}
+                  </div>
+                </span>
+              </div>
+            </td>
+            <td data-th="Date" class="receipt__data">Varies</td>
+            <td data-th="Time" class="receipt__data">Varies</td>
+            <td data-th="Quantity" class="receipt__data">Varies</td>
+            <td data-th="Total price" class="receipt__data">
+            <span data-th="Actual" class="actual" aria-label="Actual price">
+              <span class="sr-only">Actual price</span>
+              {{booking.currency}}{{booking.multiBuyFullPrice.toFixed(2)}}
+            </span>
+            <span data-th="Discount" class="discount" aria-label="Discounted price">
+              <span class="sr-only">Discounted price</span>
+              {{booking.currency}}{{booking.multiBuyPrice.toFixed(2)}}
+            </span>
+            </td>
+            <td data-th="Held until" class="receipt__data receipt__data receipt__data--held-until">{{setHeldUntilTimeout(booking)}}</td>
+            <td class="receipt__data"><a href="#" class="basket__remove" v-on:click.prevent="removeBundle" :data-village="booking.villageCode" :data-bookingref="booking.bookingReference" :data-activityref="booking.activityBookRefList" data-single="false" :data-bundleindex="booking.checked" role="button">Remove</a></td>
+          </tr>
+          <tr :class="'receipt__row basket__row ' + (checked[booking.checked].index ? 'basket__row--table' : 'hide')" v-else>
+            <td data-th="Activity" class="receipt__data">
+            <span class="receipt__data--flex">
+              <div class="basket__img basket__img--cover" :style="'background-image:url(' + escape(booking.icon || booking.thumbnailImage) + ')'">
+                <span class="sr-only">Image for {{booking.activityDesc}}</span>
+              </div>
+              <span>
+                <span class="receipt__data__title">{{booking.activityDesc}} </span>
+                <br/>
+                {{booking.location || ''}}
+              </span>
+            </span>
+            </td>
+            <td data-th="Date" class="receipt__data">{{booking.date}}</td>
+              <td data-th="Time" class="receipt__data">{{booking.time}}</td>
+              <td data-th="Quantity" class="receipt__data">
+                <ul class="basket__item-quantities" v-html="getPriceVariants(booking)"></ul>
+              </td>
+              <td data-th="Total price" class="receipt__data">
+              </td>
+              <td data-th="Held until" class="receipt__data"></td>
+              <td class="receipt__data"></td>
+          </tr>
+          <tr :class="'receipt__row basket__row ' + booking.key" v-for="booking in basketBooking" v-if="!booking.multibuy">
+            <td data-th="Item" class="receipt__data">
+              <div class="basket__img basket__img--cover" :style="'background-image:url(' + escape(booking.icon || booking.thumbnailImage) + ')'">
+                <span class="sr-only">Image for {{booking.activityDesc}}</span>
+              </div>
+              <div class="basket__item-description"><span class="basket__item-title">{{booking.activityDesc}}</span>
+                  <span class="basket__item-location">{{booking.location || ''}}</span>
+                  <!-- Multibuy pin label for desktop -->
+                  <div class="multibuy__toggle-desktop" v-if="booking.multibuyparent">
+                    <input class="checkboxToggle activityBundlesToggle hidden" type="checkbox" :id="'toggleActivityBundles' + booking.multiIndex" :name="'toggleActivityBundles' + booking.multiIndex" v-model="checkedMultibuy[booking.checkedMultibuy].index"/>
+                      <label class="ABToggleLabel" :for="'toggleActivityBundles' + booking.multiIndex" v-on:click="scrollPosition">
+                          <span class="tag--icon"></span>
+                          Multi-buy offer available
+                          <span class="sr-only">Press space to expand or collapse the activities</span>
+                          <span class="ABToggleLabel--icon light-blue"></span>
+                      </label>
+                  </div>
+              </div>
+            </td>
+              <td data-th="Date" class="receipt__data">{{booking.date}}</td>
+              <td data-th="Time" class="receipt__data">{{booking.time}}</td>
+              <td data-th="Quantity" class="receipt__data receipt__header--quantity">
+                <ul class="basket__item-quantities" v-html="getPriceVariants(booking)"></ul>
+              </td>
+              <td data-th="Total" class="receipt__data">{{currency}}{{getActivityTotal(booking)}}</td>
+              <td data-th="Held until" class="receipt__data receipt__data--held-until">{{setHeldUntilTimeout(booking)}}</td>
+              <td class="receipt__data align--right"><a href="#" class="basket__remove" v-on:click.prevent="removeBundle" :data-village="villageCode" :data-bookingref="bookingReference" :data-activityref="booking.activityBookRef" data-single="true" role="button">Remove</a></td>
+              <td class="receipt__data multibuy__toggle-mobile hide" v-if="booking.multibuyparent">
+                <div>
+                  <input class="checkboxToggle activityBundlesToggle hidden" type="checkbox" :id="'toggleActivityBundles' + booking.multiIndex" :name="'toggleActivityBundles' + booking.multiIndex"/>
+                  <label :class="'ABToggleLabel ' + (checkedMultibuy[booking.checkedMultibuy].index ? 'mobile--checked' : '')" :for="'toggleActivityBundles' + booking.multiIndex" v-on:click="scrollPosition">
+                    <span class="tag--icon"></span>
+                      Multi-buy offer available
+                      <span class="sr-only">Press space to expand or collapse the activities</span>
+                    <span class="ABToggleLabel--icon light-blue"></span>
+                  </label>
+                </div>
+              </td>
+          </tr>
+          <tr :class="'receipt__row basket__row multi-buy-content ' + (checkedMultibuy[booking.checkedMultibuy].index ? 'basket__row--table ' : 'hide ')" v-else>
+            <td colspan='7' class="receipt__data">
+              <div class="AB__wrapper">
+                <div class="AB__section">
+                   <div class="AB__section__title">Multi-Buy Offers</div>
+                   <div class="AB__section__intro">Want to add more activities?
+                       Take a look at the bundles below and add one to your trip to save with our exclusive discount
+                       .</div>
+                   <div class="AB-cards">
+                      <div class="AB-card" v-for="(each, index) in booking.multiactivities">
+                         <div class="AB-card__image" v-for="eachactivity in each.multiBuyActivities" v-if="(each.multiBuyActivityCode.indexOf(eachactivity.mbActivity) === -1)">
+                          <div class="basket__img basket__img--cover" :style="'background-image:url(' + escape(eachactivity.icon || eachactivity.thumbnailImage) + ')'">
+                            <span class="sr-only">Image for {{eachactivity.multiBuyDesc}}</span>
+                          </div>
+                         </div>
+                         <div class="AB-card__content" v-for="eachactivity in each.multiBuyActivities" v-if="(each.multiBuyActivityCode.indexOf(eachactivity.mbActivity) === -1)">
+                            <div class="AB-card__content__title">
+                               <strong>Add</strong>
+                                   {{eachactivity
+                                   .multiBuyDesc}}
+                            </div>
+                            <div class="AB-card__content__offer">
+                                Save upto {{parseInt((each.multiBuyDiscValue/1))}}%
+                            </div>
+                            <div class="AB-card__action">
+                               <a :href="eachactivity.detailsPageUrl" class="btn btn--book">
+                               <span>Check Availability</span>
+                               </a>
+                            </div>
+                         </div>
+                      </div>
+                   </div>
+                </div>
+             </div>
+            </td>
+          </tr>
+        </tbody>
+
+      </table>
+    </div>
+    <div class="booking-total receipt__booking-total basket__booking-total">
+      <div class="basket__wrapper">
+      <div class="basket__total">
+        <h4 class="booking-total__title">Total</h4>
+        <p class="booking-total__price">{{currency}}{{total.toFixed(2)}} <span v-if="(savings/1 > 0)" class="saving">(Saving {{currency}}{{savings.toFixed(2)}})</span></p>
+      </div>
+      <a class="btn btn--book btn--small basket__btn" href="#"><i class="icon-lock" aria-hidden="true"></i><span>Checkout</span></a>
+      <a class="btn btn--outline btn--small basket__btn js-close-basket" href="#" v-on:click="close"></i><span>Continue shopping</span></a>
+      </div>
+    </div>
+    </div>
+</div>
+
+</div>
+<main class="layout-container container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="layout-container-927cceae0f" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="heroimage parbase aem-GridColumn aem-GridColumn--default--12">
+    
+
+    <div title="Lodge in a woodland setting" tabindex="0" class="short hero js-background-has-image pos-center">
+    
+    <picture>
+        <source type="image/webp" srcset="/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/320/optimal/image.webp 320w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/620/optimal/image.webp 620w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/1024/optimal/image.webp 1024w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/optimal/image.webp 1200w"/>
+<source srcset="/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/320/optimal/image.1678998549898.jpg 320w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/620/optimal/image.1678998549898.jpg 620w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/1024/optimal/image.1678998549898.jpg 1024w,/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/jcr:content/root/responsivegrid/heroimage.transform.1678998549898.jpg/optimal/image.1678998549898.jpg 1200w"/>
+
+
+        
+
+    	
+        <img src="/content/centerparcs/uk/en/information/accessibility/woburn-forest/accommodation/_jcr_content/root/responsivegrid/heroimage.transform.1678998549898.jpg/optimal/image.1678998549898.jpg" alt="Lodge in a woodland setting" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
+    	
+
+    </picture>
+
+    
+    
+    
+    
+
+
+</div>
+
+    <div title="Lodge in a woodland setting" class="overlay short">
+    	
+    	<div class="hero__content">
+	        <h1 class="hero__title js-hero-title  heading-bold heading-xlarge">Accommodation accessibility</h1>
+	        
+            
+        </div>
+        <a href="#" class="video-controls hidden"><span class="u-visually-hidden">Play</span></a>
+    </div>
+
+    <!--/ Empty Placeholder /-->
+    
+    
+
+
+</div>
+<div class="cp-wrapper-responsivegrid aem-GridColumn aem-GridColumn--default--12"><div>
+	<div class="wrapper">
+		<div>
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="jumpto aem-GridColumn aem-GridColumn--default--12">
+	  <div class="jump-to">
+	    <p class="heading-xxsmall heading-bold jump-to__title">Skip to</p>
+	    <ul class="jump-to__list">
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#192" data-jump-link>Adapted lodge 192</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#193" data-jump-link>Adapted lodge 193</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#205" data-jump-link>Adapted lodge 205</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#210" data-jump-link>Adapted lodge 210</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#299" data-jump-link>Adapted lodge 299</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#305" data-jump-link>Adapted lodge 305</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#306" data-jump-link>Adapted lodge 306</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#318" data-jump-link>Adapted lodge 318</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#330" data-jump-link>Adapted lodge 330</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#337" data-jump-link>Adapted lodge 337</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#341" data-jump-link>Adapted lodge 341</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#432" data-jump-link>Adapted lodge 432</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#439" data-jump-link>Adapted lodge 439</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#440" data-jump-link>Adapted lodge 440</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#442" data-jump-link>Adapted lodge 442</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#456" data-jump-link>Adapted lodge 456</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#19" data-jump-link>Adapted hotel room 19</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#69" data-jump-link>Adapted hotel room 69</a>
+		      </li>
+		     
+		      <li class="jump-to__list-item ">
+		        <a class="jump-to__link" href="#482" data-jump-link>Adapted Tree House 482</a>
+		      </li>
+		     
+	    </ul>
+	  </div>
+    <!--/ Empty Placeholder /-->
+    
+    
+    
+
+</div>
+<div class="text parbase aem-GridColumn aem-GridColumn--default--12">
+<h2><span class="h3"><a id="192"></a>Adapted lodge 192<br />
+</span></h2>
+<p>This is a three-bedroom single storey Woodland lodge. The makeup of the non-adapted rooms is a double bedroom and a twin bedroom. The adapted bedroom is made up of two single beds. The front door width is 82cm. There is a chain on the front door at 178cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There is an external charging point outside the bedroom emergency exit.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 112cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 92cm opening. The patio door lip is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a right-hand transfer.</p>
+<p>The bedroom door opening is 85cm. There is a TV in this room. There is a table next to the bed which measures 136cm x 30cm. The table is 86cm from the floor. The emergency door opening is 81cm. The chain is 180cm from the ground.</p>
+<p>The wardrobe has a lower rail on it. It is 92cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The bathroom room door opening is 89cm. The toilet is a right-hand transfer. The toilet seat height is 50cm. The distance between the toilet and the sink is 40cm. The sink height is 66cm.</p>
+<p>The distance between the sink and the shower door is 114cm.  The shower transfer is to the right-hand side. The shower seat height is 49cm. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave and toaster are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 160cm x 180cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="193"></a>Adapted lodge 193</span></h2>
+<p>This is a three-bedroom single storey Woodland lodge. The makeup of the non-adapted room is a double bedroom and one twin. The adapted bedroom is made up of two single beds on of which is adapted. There is an electrical charging point at the front of the lodge.</p>
+<p>There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 84cm.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bathroom these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedrooms, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 83cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 94cm opening. The lip of the door is 1.5mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The transfer is the left-hand side.</p>
+<p>The bedroom door opening is 90cm. The emergency door opening is 83cm. The chain height is 149cm There is a TV in this room. There is a table next to the bed which measures 144cm x 40cm. The table is 86cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 145cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<p>The safe is in the room in the bottom of the wardrobe.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The door opening is 09cm.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 50cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 60cm. The sink height is 66cm.</p>
+<p>The shower transfer is to the right-hand side. The shower seat height is 43cm. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<p>The turning circle is 160cm x 120cm.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The walkway from the living space to the kitchen is 85cm. The hob is located above the oven, it is 90cm from the ground. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 163cm x 185cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="205"></a>Adapted lodge 205<br />
+</span></h2>
+<p>This is a three-bedroom single storey Woodland Dog lodge. The makeup of the non-adapted room is a double bed and a twin. The adapted bedroom is made up of two single beds. There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 84cm.</p>
+<p>There is an external electrical charging point under the dining room window.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<p><strong>Access inside the lodge</strong></p>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<p><strong>Lounge</strong></p>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 108cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 96cm opening. The patio lip is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a left-hand transfer.</p>
+<p>The bedroom door opening is 86cm. There is TV in this room. There is a table next to the bed which measures 146 x 40. The table is 73cm from the floor.  The emergency exit door is 83cm wide. The chain 152cm is from the ground.</p>
+<p>The wardrobe has a lower rail on it. It is 143cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The door opening is 90cm.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 46cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 60cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower transfer is to the right-hand side. The shower seat height is 50cm. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height from the floor is 90cm. The oven has a side opening door. There is a work surface at a height of 73cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 158cm x 180cm. The access to the kitchen is 93cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="210"></a>Adapted lodge 210</span></h2>
+<p>This is a two-bed single storey Woodland. The makeup of the non-adapted room is a double bed. The adapted bedroom is made up of two single beds. The front door opening is 83cm. There is a chain on the front door at 175cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite shower room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the around the village tab for further information.</p>
+<h3><strong><span class="h4">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 136cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an opening 82cm. The patio door lip is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a left hand transfer.</p>
+<p>The bedroom door opening is 86cm. There is an emergency door. The opening is 83cm. The chain height is 152cm. There is not TV in this room (there is in the double room this is the as all other woodland lodges). There is a table next to the bed which measures 145cm x 40cm. The table is 72cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 144cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The door width is 88cm wide.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 49cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 60cm. The sink height is 66cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower transfer is to the right-hand side. The shower chair is 50cm from the floor. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 180cm x 163cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="299"></a>Adapted lodge 299</span></h2>
+<p>This is a four-bed single storey Woodland. The makeup of the non-adapted master bedroom is a double bed. There is another double room and one twin. The adapted bedroom is made up of two single beds. There is a chain on the front door at 175cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 88cm.</p>
+<p>There is a charging point by the front door.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bathroom these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the around the village tab for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedrooms, although there is limited manoeuvring space once in the non-adapted bedrooms.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 136cm wide.</p>
+<p>There is level access to the patio via the patio door in the lounge area. The patio door has an opening of 182cm.The patio threshold lip height is 2cm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a right-hand transfer.</p>
+<p>There is a corridor leading to the adapted bedroom that is approx. 3 meters long and 85cm wide. The turning in to the door is also 85cm.</p>
+<p>The bedroom door opening is 85cm. There is not TV in this room (there is in the double room this is the as all other woodland lodges). The table is 74cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 145cm from the ground.</p>
+<p>The safe is in the wardrobe of the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<p>The emergency door from the bedroom is 90cm wide. There is a lip of 3cm. The door chain is 150m from the ground.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 49cm.  The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 60cm. The sink height is 66cm.</p>
+<p>The turning circle is 134cm x 164cm. The shower transfer is to the right-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower. The shower seat height is 50cm.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 183cm x 183cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="305"></a>Adapted lodge 305</span></h2>
+<p>This is a two bed single storey Woodland Dog lodge. The makeup of the non-adapted room is a double bed. The adapted bed room is made up of two single beds. There is a chain on the front door at 175cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 85cm.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the around the village tab for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.</p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 115cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 81cm opening.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The bedroom door opening is 84cm. There is not TV in this room (there is in the double room this is the as all other woodland lodges). The turning circle to the bed is approx. 160m x 150cm. There is a table next to the bed which measures 145cm x 40cm. The table is 72cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 140cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left hand transfer. The toilet seat height is 47cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 100cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower transfer is to the left hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 1000mm. The oven has a side opening door. There is a work surface at a height of 75cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 155cm x 190cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="306"></a>Adapted lodge 306</span></h2>
+<p>This is a three-bed single storey Woodland. The makeup of the non-adapted rooms are a double bedroom and a twin bedroom. The adapted bedroom is made up of two single beds.</p>
+<p>The front door width is 82cm. There is a chain on the front door at 175cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There is an external charging point by the emergency door to the adapted room.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 85cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 91cm opening. The lip of the patio door is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The bedroom door opening is 84cm. There is a TV in this. There is a table next to the bed which measures 135cmx 30cm. The table is 87cm from the floor.</p>
+<p>There is an emergency escape door which is 82cm wide. The chain for this door is 173cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 147cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The bathroom door is 87cm wide.</p>
+<p>The toilet is a left-hand transfer. The toilet seat height is 49cm. The distance between the toilet and the sink is 40cm. The sink height is 66cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower transfer is to the left-hand side. The shower seat height is 47cm. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave and toaster are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 190cm x 160cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="318"></a>Adapted lodge 318</span></h2>
+<p>This is a four bed two storey Exclusive Lodge. The makeup of the non-adapted rooms is two twins and two doubles. The adapted bed room is made up of two single beds. There is a chain on the front door at 180cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 186cm.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>The lodge is located close to the Plaza building. Access to the Plaza is via a steep path with a 14% decline. There is an alternative route that avoids this path. It is through the hotel reception and down the lift this would take you into the main building. There are various paths around village which have steep inclines.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. </p>
+<h3><strong>Lounge</strong></h3>
+<p>The door into the lounge is 90cmcm wide. There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 107cm wide. The access to the patio has a lip of 1cm. The patio door has an 118cm opening.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. The bed is a left-hand transfer.</p>
+<p>The bedroom door opening is 87cm. There is a TV in this room . The turning circle to the bed is approx. 313cm x 154cm.  The distance to access the bed is 147cm. There is a table next to the non-adapted bed which measures 50cm x 72cm. The table is 87cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 134cm from the ground.</p>
+<p>There is alternative access into the adapted bedroom this has a lip of 1cm and the door width is 87cm. There is also a chain that is 152cm for the floor.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides an accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 48cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 100cm. The sink height is 67cm.</p>
+<p>The shower transfer is to the left-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and coffee maker are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 156cm x 220cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<h3><strong><span class="h5">Games Room</span></strong></h3>
+<p>There is a TV and Pool Table in the games room. The door width is 86cm. The height of the pool table is 77cm from the floor. The height from the floor to the bottom lip of the pool table is 61cm.                                </p>
+<h3><strong><span class="h5">Spa Pod</span></strong></h3>
+<p>The spa pod door is a patio style door. The lip on the threshold is 1cm. The door width is 70cm. The entrance area has a floor space of 152cm x 144cm.</p>
+<h3><strong><span class="h5">Steam Room</span></strong></h3>
+<p>The door to the stream room is 83cm. The floor space for the steam room is 102cm x 139cm. The door to the sauna is 84cm.    </p>
+<h3><strong><span class="h5">Sauna</span></strong></h3>
+<p>The floor space in the Sauna is 101cm x 163cm. The shower in the pod has a door opening of 83cm. The floor space is 133cm x 88cm.</p>
+<h3><strong><span class="h5">Hot Tub</span></strong></h3>
+<p>The hot tub has moveable step access and a hoist (Oxford Dipper). There is an external shower. The hot tub seats 8 people.</p>
+<p> </p>
+<h2><span class="h3"><a id="330"></a>Adapted lodge 330</span></h2>
+<p>This is a three-bed single storey Executive Lodge. The makeup of the non-adapted room is a double bed. The adapted bedroom is made up of two single beds. The front door width is 85cm. There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bathroom these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<p>There is an external electrical charging point under the dining room window.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx.82cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 96cm opening. The patio door lip is 1.5mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.   The transfer is on the right-hand side.</p>
+<p>The bedroom door opening is 88cm. There is a TV in this room. There is a table next to the bed which measures 145cm x 40cm. The table is 89cm from the floor.  The emergency door width is 83cm. The chain height is 150cm.</p>
+<p>The wardrobe has a lower rail on it. It is 143cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The door opening is 88cm.</p>
+<p>The toilet is a right hand transfer. The toilet seat height is 49cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 45cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower seat is 47cm from the floor. The shower transfer is to the right-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The width of the access to the kitchen is 93cm. The hob is located above the oven, height 91cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 180cm x 190cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="337"></a>Adapted lodge 337</span></h2>
+<p>This is a Two bed single storey Executive lodge. The makeup of the non-adapted room is a double bed. The adapted bed room is made up of two single beds. There is a chain on the front door at 170cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge. The front door width is 83cm.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheel chair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx.135cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 82cm opening. The patio door has a 2mm threshold.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed transfer is on the left-hand side.</p>
+<p>The bedroom door opening is 84cm. There is a TV in this room. There is a table next to the bed which measures 147cm x 40cm. The table is 87cm from the floor. The emergency door is 84cm wide. The chain is 152cm from the ground.</p>
+<p>The wardrobe has a lower rail on it. It is 144cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left hand transfer. The toilet seat height is 46cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 45cm. The sink height is 68cm.</p>
+<p>The distance between the sink and the shower door is 114cm.  The shower transfer is to the left-hand side. The shower head height can be adjusted.  An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 190cm x 160cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="341"></a>Adapted lodge 341<br />
+</span></h2>
+<p>This is a Two bed single storey Executive dog lodge. The makeup of the non-adapted room is a double bed. The adapted bedroom is made up of two single beds. The front door width is 84cm. There is a chain on the front door at 176cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point. There is an external charging point by the dining room windows.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx.140cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 80cm opening. The lip of the patio door is 3mm.</p>
+<h3><strong><span class="h4">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. The bed is a right-hand transfer. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The bedroom door opening is 85cm. There is a TV in this room. There is a table next to the bed which measures 145cm x 40cm. The table is 88cm from the floor.</p>
+<p>There is a second access door the bedroom. The opening is 82cm wide. The chain is 152cm form the ground.</p>
+<p>The wardrobe has a lower rail on it. It is 146cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The bathroom door opening is 85cm.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 49cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 50cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 107cm.  The shower transfer is to the right-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 190cm x 160cm. The kitchen access width is 102cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="432"></a>Adapted lodge 432</span></h2>
+<p>This is a Four Bed Split Level Executive lodge. The makeup of the non-adapted rooms are a double bedroom, and two twin bedrooms. The adapted bedroom is made up of two single beds. The front door width is 83cm. There is a chain on the front door at 176cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>The hallway is 174cm x 157cm. The doorway to the living area is 86cm.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 100cm wide. The patio door opening is 96cm wide. There is level access to the patio via the patio door in the lounge area.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. The bed is a right-hand transfer. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The alternative door is 82cm wide.</p>
+<p>The bedroom door opening is 87cm. There is a TV in this room. There is a table next to the bed which measures 40cm x 147cm. The table is 86cm from the floor.</p>
+<p>The wardrobe has a lower shelf on it. It is 93cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The bathroom door opening is 86cm wide.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 49cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 40cm. The sink height is 68cm.</p>
+<p>The distance between the sink and the shower door is 102cm. The shower transfer is to the right-hand side. The shower head height can be adjusted. The shower seat height is 49cm.There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 247cm x 180cm. The opening to gain access to the kitchen is 115cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<h3><strong><span class="h5">Sauna</span></strong></h3>
+<p>The door opening to the sauna is 82cm. There is an external shower the on and off switch is 90cm from the ground. The sauna seats are 49cm from the ground. There is a turning circle 150cm x 90cm.</p>
+<h3><strong><span class="h5">Games Room</span></strong></h3>
+<p>The door width is 87cm. The pool table height is 77cm from the ground. The patio door opening from the games from is 97cm and the lip is 2mm.</p>
+<p> </p>
+<h2><span class="h3"><a id="439"></a>Adapted lodge 439</span></h2>
+<p>This is a six Bed Woodland lodge. The makeup of the non-adapted rooms are 3 double bedrooms and two twins or 2 two double bedrooms and three twins. The adapted bedroom is made up of two single beds. The front door width is 83cm. There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bathroom these are local alarms and can be heard in the lodge they are not connected to a central point. The external charging point is by the adapted emergency door.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 85cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 149cm opening. The patio door lip is 1.5mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a left-hand transfer.</p>
+<p>The bedroom door opening is 90cm. The width of the emergency door is 80cm. The door chain is 170cm. There is not TV in this room (there is in the double room this is the as all other woodland lodges). There is a table next to the bed which measures 136cm x 30cm. The table is 70cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 145cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.  The door width is 89cm.</p>
+<p>The toilet is a left-hand transfer. The toilet seat height is 49cm. The distance between the toilet and the sink is 40cm. The sink height is 65cm.</p>
+<p>The distance between the sink and the shower door is 110cm.  The shower transfer is to the left-hand side. The shower chair is 47cm from the floor. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 91cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave and toaster are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 410cm x 180cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="440"></a>Adapted lodge 440<br />
+</span></h2>
+<p>This is a three bed Executive lodge. The makeup of the non-adapted rooms are two double bedrooms and one adapted twin. The adapted bedroom is made up of two single beds. The front door width is 83cm There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 78cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 92cm opening. The lip of the patio door opening is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  Transfer is left hand side.</p>
+<p>The bedroom door opening is 86cm. There is a TV in this room There is a table next to the bed which measures 137cm x 30cm. The table is 70cm from the floor.</p>
+<p>The wardrobe has a lower rail on it. It is 145cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room. There is an emergency door the width is 82cm. Chain height on this door is 168cm from the ground.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left-hand transfer. The toilet seat height is 48cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 50cm. The sink height is 66cm.</p>
+<p>The distance between the sink and the shower door is 110cm. The shower chair height is 49cm. The shower transfer is to the left-hand side. The shower head height can be adjusted. There is a small shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave and toaster are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 150cm x 190cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<h3><strong><span class="h5">Sauna</span></strong></h3>
+<p>The door width is 83cm. There is an emergency stop is in place and sounds locally. The seat height is 48cm. There is an external shower with the on off button at 95cm.</p>
+<p> </p>
+<h2><span class="h3"><a id="442"></a>Adapted lodge 442<br />
+</span></h2>
+<p>This is a three bed Executive lodge. The makeup of the non-adapted rooms is one double bedroom and one twin bedroom. The adapted bedroom is made up of two single beds.</p>
+<p>The front door width is 82cm. There is a chain on the front door at 177cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are. There is a charging point externally by the alternative door in the adapted bedroom.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx.100cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 93cm opening. The patio lip is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The bedroom door opening is 86cm. There is a TV in this room. There is a table next to the bed which measures 134cm x 30cm. The table is 70cm from the floor.</p>
+<p>There is an alternative door is 80cm wide. The chain height is 160cm.</p>
+<p>The wardrobe has a lower rail on it. It is 92cm from the ground. The safe is in the master bedroom.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The width of the door is 86cm.</p>
+<p>The toilet is a right-hand transfer. The toilet seat height is 49cm.The distance between the toilet and the sink is 50cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 104cm. The shower chair height is 49cm. The shower transfer is to the right-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 90cm. The oven has a side opening door. There is a work surface at a height of 72cm. The microwave and toaster are on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 190cm x 160cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="456"></a>Adapted lodge 456</span></h2>
+<p>This is a three bed Executive lodge. The makeup of the non-adapted rooms are double beds. The adapted bedroom is made up of two single beds. The front door width is 84cm. There is a chain on the front door at 179cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bed room and en-suite bath room these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. One space per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are. There is an external charging point outside the dining room window.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedroom, although there is limited manoeuvring space once in the non-adapted bedroom.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. The gap between the sofa and the wall to access the lounge area is approx. 90cm wide. There is level access to the patio via the patio door in the lounge area. The patio door has an 97cm opening. The lip of the patio door is 2mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements. </p>
+<p>The bedroom door opening is 86cm. There is a TV in this room. There is a table next to the bed which measures 148cm x 40cm. The table is 86cm from the floor.</p>
+<p>There is an alternative door to the adapted bedroom is 84cm wide. The chain height is 150cm from the floor.</p>
+<p>The wardrobe has a rail it is 144cm from the ground.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet. The bathroom door opening is 88cm.</p>
+<p>The toilet is a left-hand transfer. The toilet seat height is 49cm. The toilet seat is blue to aid those with visual impairment. The distance between the toilet and the sink is 50cm. The sink height is 67cm.</p>
+<p>The distance between the sink and the shower door is 110cm. The shower seat height is 43cm. The shower transfer is to the left-hand side. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height of 90cm . The oven has a side opening door. There is a work surface at a height of 72cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink on the nearest side to the user. The fridge is at a low level. The kitchen as a whole is 190cm x 160cm.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<h2><span class="h3"><a id="19"></a>Adapted Hotel Room 19</span></h2>
+<p>This is a Self-Catering one bed hotel room on the ground floor of the hotel. The front door width is 85cm. There are automatic doors that are triggered by your wrist bands.</p>
+<p>There are emergency pull cords in the adapted bed room and shower room these can be heard in the hotel room and by the Aqua Sana staff who will attend to assist between the hours of 06:30 and 22:00.</p>
+<p>The Hotel room is located in the Plaza building. There are various paths around village which have steep inclines. Please see the Around the Village tab on access for all for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided in the hotel / main carpark.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the room</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation.</p>
+<h3><strong><span class="h5">Living Space</span></strong></h3>
+<p>There is a TV on the wall with remote controls for operation. There are tea and coffee making facilities. There is a raised chair to aid transfer from a wheelchair in the lounge area.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.   The bed is a left-hand transfer.</p>
+<p>The wardrobe has a rail on it. It is 158cm from the ground.  An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">Balcony</span></strong></h3>
+<p>The balcony door is 97cm wide. The balcony is 320cm x 130cm. The lip to the balcony is 2mm.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left hand transfer. The toilet seat height is 48cm. The distance between the toilet and the sink is 40cm. The sink height is 57cm.</p>
+<p>The shower transfer is to the left-hand side. The shower head height can be adjusted. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height 87cm. The oven has a top opening door. There is a work surface at a height of 96cm. The microwave toaster and kettle are on this work surface to assist with access. There are sufficient floor based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However there are also wall mounted cupboards which are not accessible from a wheelchair. The tap for the sink is on the far side to the user. The fridge is at a low level. The kitchen as a whole is 193cm x 240cm.</p>
+<p> </p>
+<h2><span class="h3"><a id="69"></a>Adapted Hotel Room 69</span></h2>
+<p>This is a one bed hotel room on the third floor of the hotel. The front door width is 84cm. There are automatic doors that are triggered by your wrist bands.</p>
+<p>There are emergency pull cords in the adapted bed room and shower room these can be heard in the hotel room and by the Aqua Sana staff who will attend to assist between the hours of 0630 and 2300.</p>
+<p>The Hotel room is located in the Plaza building. There are various paths around village which have steep inclines. Please see the Around the Village tab on access for all for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided in the hotel carpark.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the room</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation.</p>
+<h3><strong><span class="h5">Tea and coffee facilities / Living space</span></strong></h3>
+<p>There is a fridge on the ground level. The unit hight is 90cm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. The bed left hand transfer.</p>
+<p>The wardrobe has a lower rail on it. It is 120cm from the ground.  An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">Balcony</span></strong></h3>
+<p>The balcony is 360cm x 160cm. The balcony door opening is 65cm. The lip to the balcony is 1.5mm.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left hand transfer. The toilet seat height is 48cm. The distance between the toilet and the sink is 40cm. The sink height is 68cm.</p>
+<p>The distance between the sink and the shower curtain is 90cm. The shower transfer is to the right-hand side. The shower seat hight is 45cm.The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<p> </p>
+<h2><span class="h3"><a id="482"></a>Adapted Tree House 482</span></h2>
+<p>This is a four bedroom Tree House. The makeup of the non-adapted rooms is either two double beds and one twin or two twin and one double. The adapted bedroom is made up of two single beds.</p>
+<p>The front door width is 83cm. There is a chain on the front door at 180cm from the floor. This is to prevent small children leaving the lodge without the guardian / parent’s knowledge.</p>
+<p>There are emergency pull cords in the adapted bedroom and en-suite bathroom these are local alarms and can be heard in the lodge they are not connected to a central point.</p>
+<p>There is alternative access and egress to the Tree House via a ramp the width of the ramp is 110cm. There is an external socket on the tree house balcony.</p>
+<p>There are various paths around village which have steep inclines. Please see the Around the Village tab on Access for All for further information.</p>
+<h3><strong><span class="h5">Parking</span></strong></h3>
+<p>Designated accessible parking is provided by the accommodation. Three spaces per lodge. This is to assist loading and unloading. You will still be required to remove your vehicle to the car park once you have loaded your vehicle or unloaded it. As all other guests are.<strong></strong></p>
+<h3><strong><span class="h5">Access inside the lodge</span></strong></h3>
+<p>There is access for guests using wheelchairs throughout the accommodation. This includes into the other bedrooms, although there is limited manoeuvring space once in the non-adapted bedrooms.  The master bedroom is at the top of a spiral staircase.</p>
+<h3><strong><span class="h5">Lounge</span></strong></h3>
+<p>There is a raised chair to aid transfer from a wheelchair in the lounge area. This chair is also high seated and firm. There is level access to the patio via the patio door in the lounge area. The patio door has an 81cm opening. With a lip of 4mm.</p>
+<h3><strong><span class="h5">Accessible Bedroom</span></strong></h3>
+<p>This is provided with one Bakare Volker 3082 adjustable 914mm x 1828mm (3ft) bed. There is space beneath the bed to allow a hoist to be used at the bedside. A portable hoist is not provided within the accommodation. If one is required Center Parcs will arrange for the hire of a hoist at no extra cost, please contact us in advance of your stay to make arrangements.  The bed is a right-hand transfer.</p>
+<p>The bedroom door opening is 86cm. There is a TV in this room. The safe is in the bottom of the wardrobe. The turning circle to the bed is approx. 103cm x 150cm. There is a dressing table which measures 118cm x 58cm. The table is 61cm from the floor.</p>
+<p>The wardrobe rail is 170cm from the ground.</p>
+<p>There is a patio door leading to the outside space. The door width is 80cm. The patio door width is 2mm.</p>
+<p>An emergency alarm pull cord is present. There is also one standard single bed in this room.</p>
+<h3><strong><span class="h5">En-suite Adapted Bathroom</span></strong></h3>
+<p>The accessible en-suite bathroom provides accessible shower seat, wash hand basin and toilet.</p>
+<p>The toilet is a left-hand transfer. The toilet seat height is 49cm. The distance between the toilet and the sink is 50cm. The sink height is 57cm.</p>
+<p>The distance between the sink and the shower door is 104cm.  The shower transfer is to the left-hand side. The shower seat height is 49cm. The shower head height can be adjusted. There is a shelf to allow toiletries to be placed on it. An emergency alarm pull cord is provided at the shower.</p>
+<h3><strong><span class="h5">Kitchen</span></strong></h3>
+<p>The hob is located above the oven, height is 91cm. The oven has a side opening door. There is a work surface at a height of 74cm. The microwave is on this work surface to assist with access. There are sufficient floor-based cupboards to provide accessible storage. You may need to move what you decide is needed into these cupboards. However, there are also wall mounted cupboards which are not accessible from a wheelchair. The kitchen as a whole is 170cm x 230cm.</p>
+<h3><strong><span class="h5">Games Room</span></strong></h3>
+<p>The games room door width is 80cm. The lip of the doorway is 3mm. The distance between the sofa and the drinks cupboard is 110cm. The back of the sofa to the pool table is 57cm. The pool table is 78cm.</p>
+<h3><strong><span class="h5">Infrared Sauna</span></strong></h3>
+<p>The door width for this room is 80cm. There is room by the door to put a wheelchair and if needed to transfer on to the seating. It is a right-hand transfer. The seat height is 57cm. There is an emergency pull cord which sounds locally inside the tree house.</p>
+<h3><strong><span class="h5">Hot Tub</span></strong></h3>
+<p>There are two steps that can be used for access. Alternatively, there is a hoist Oxford 140 Dipperlift hoist. The maximum safe working load is 140Kg(308lbs) Please note slings <strong>are not</strong>  provided, please ensure you bring these with you if required. The average temperature for the hot tub is 37degrees Celsius.</p>
+<h3><strong><span class="h5">Dining Room</span></strong></h3>
+<p>The dining room is just off the lounge area. The chairs can be removed to allow access for a wheelchair user to eat at the table.</p>
+<p> </p>
+<p><a href="/content/dam/centerparcs/accessibility/statements/woburn-forest/wo-acommodation.pdf">Download the PDF to see floorplan and images.</a></p>
+
+</div>
+
+    
+</div>
+</div>
+	</div>
+</div>
+</div>
+<div class="horizontalline aem-GridColumn aem-GridColumn--default--12"><div class="article__end article__end--equal-margins"></div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</main>
+<footer class="footer aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="breadcrumb aem-GridColumn aem-GridColumn--default--12">
+<div class="breadcrumb">
+    <div class="breadcrumb__wrapper wrapper">
+        <ul class="breadcrumb__list" data-auto-suffix aria-label="Breadcrumb" id="breadcrumb">
+            <li class="breadcrumb__link">
+                <a href="/">Center Parcs UK</a>
+                <span class="breadcrumb__separator">/</span>
+            </li>
+            
+                <li class="breadcrumb__link" data-auto-suffix>
+                    
+                        <a href="/information/accessibility/woburn-forest.html">Woburn Forest</a>
+                        <span class="breadcrumb__separator">/</span>
+                </li>
+            
+            <li class="breadcrumb__link" data-auto-suffix>
+                
+                    <a href="/information/accessibility/woburn-forest/accommodation.html" aria-current="page">
+                        Accommodation
+                    </a>
+                
+            </li>
+        </ul>
+    </div>
+</div>
+
+</div>
+<div class="experiencefragment uxp-component cmp-container--footer aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-d57abbe58b" class="cmp-experiencefragment cmp-experiencefragment--center-parcs-footer">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="accordion uxp-component aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--offset--phone--0 aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<div id="accordion-cdf1c4b1a2" class="cmp-accordion" data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-cdf1c4b1a2-item-35f39d5708">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-cdf1c4b1a2-item-35f39d5708-button" class="cmp-accordion__button" aria-controls="accordion-cdf1c4b1a2-item-35f39d5708-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Center Parcs</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-cdf1c4b1a2-item-35f39d5708-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-cdf1c4b1a2-item-35f39d5708-button"><div class="layout-container container responsivegrid">
+
+    
+    
+    
+    <div id="layout-container-489d98363e" class="cmp-container">
+        
+        <div class="list">
+<ul id="list-a81b249701" class="cmp-list">
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/village-news.html">
+            <span class="cmp-list__item-title">Village news</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="https://www.centerparcs.ie/">
+            <span class="cmp-list__item-title">Center Parcs Ireland</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-a81b249701-item-542b7d4cc3&#34;:{&#34;@type&#34;:&#34;centerparcs/components/content/core/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-03-23T09:42:44Z&#34;,&#34;dc:title&#34;:&#34;Aqua Sana&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.aquasana.co.uk/&#34;}}">
+    <article>
+        <a class="cmp-list__item-link" href="https://www.aquasana.co.uk/" data-cmp-clickable>
+            <span class="cmp-list__item-title">Aqua Sana</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="https://events.centerparcs.co.uk/">
+            <span class="cmp-list__item-title">Conferences and events</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-a81b249701-item-b41776d8c5&#34;:{&#34;@type&#34;:&#34;centerparcs/components/content/core/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2022-12-13T14:17:22Z&#34;,&#34;dc:title&#34;:&#34;Corporate information&#34;,&#34;xdm:linkURL&#34;:&#34;https://corporate.centerparcs.co.uk/&#34;}}">
+    <article>
+        <a class="cmp-list__item-link" href="https://corporate.centerparcs.co.uk/" data-cmp-clickable>
+            <span class="cmp-list__item-title">Corporate information</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-a81b249701-item-7de548f2fe&#34;:{&#34;@type&#34;:&#34;centerparcs/components/content/core/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-03-27T14:39:25Z&#34;,&#34;dc:title&#34;:&#34;Careers overview&#34;,&#34;xdm:linkURL&#34;:&#34;https://corporate.centerparcs.co.uk/careers.html&#34;}}">
+    <article>
+        <a class="cmp-list__item-link" href="https://corporate.centerparcs.co.uk/careers.html" data-cmp-clickable>
+            <span class="cmp-list__item-title">Careers overview</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-a81b249701-item-13baa525ee&#34;:{&#34;@type&#34;:&#34;centerparcs/components/content/core/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2022-01-17T14:41:05Z&#34;,&#34;dc:title&#34;:&#34;Media Centre overview&#34;,&#34;xdm:linkURL&#34;:&#34;https://corporate.centerparcs.co.uk/media-centre.html&#34;}}">
+    <article>
+        <a class="cmp-list__item-link" href="https://corporate.centerparcs.co.uk/media-centre.html" data-cmp-clickable>
+            <span class="cmp-list__item-title">Media Centre overview</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;list-a81b249701-item-9eb61b10bf&#34;:{&#34;@type&#34;:&#34;centerparcs/components/content/core/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-02-17T14:24:36Z&#34;,&#34;dc:title&#34;:&#34;Blog&#34;,&#34;xdm:linkURL&#34;:&#34;https://blog.centerparcs.co.uk/&#34;}}">
+    <article>
+        <a class="cmp-list__item-link" href="https://blog.centerparcs.co.uk/" data-cmp-clickable>
+            <span class="cmp-list__item-title">Blog</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/sitemap.html">
+            <span class="cmp-list__item-title">Center Parcs Sitemap</span>
+            
+        </a>
+        
+    </article>
+</li>
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div class="accordion uxp-component aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--tablet--2 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0 aem-GridColumn--default--2">
+<div id="accordion-b6ee67fe83" class="cmp-accordion" data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-b6ee67fe83-item-12c9ef1633">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-b6ee67fe83-item-12c9ef1633-button" class="cmp-accordion__button" aria-controls="accordion-b6ee67fe83-item-12c9ef1633-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Get in Touch</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-b6ee67fe83-item-12c9ef1633-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-b6ee67fe83-item-12c9ef1633-button"><div class="layout-container container responsivegrid">
+
+    
+    
+    
+    <div id="layout-container-dffb64782e" class="cmp-container">
+        
+        <div class="list">
+<ul id="list-824f21dbe3" class="cmp-list">
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/contact.html">
+            <span class="cmp-list__item-title">Contact Us</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/gift-cards.html">
+            <span class="cmp-list__item-title">Gift cards</span>
+            
+        </a>
+        
+    </article>
+</li>
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div class="accordion uxp-component aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--offset--phone--0 aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+<div id="accordion-7622a17ed2" class="cmp-accordion" data-cmp-is="accordion" data-placeholder-text="false">
+    <div class="cmp-accordion__item" data-cmp-hook-accordion="item" id="accordion-7622a17ed2-item-35dd60899c">
+        <h2 class="cmp-accordion__header">
+            <button id="accordion-7622a17ed2-item-35dd60899c-button" class="cmp-accordion__button" aria-controls="accordion-7622a17ed2-item-35dd60899c-panel" data-cmp-hook-accordion="button">
+                <span class="cmp-accordion__title">Legal</span>
+                <span class="cmp-accordion__icon"></span>
+            </button>
+        </h2>
+        <div data-cmp-hook-accordion="panel" id="accordion-7622a17ed2-item-35dd60899c-panel" class="cmp-accordion__panel cmp-accordion__panel--hidden" role="region" aria-labelledby="accordion-7622a17ed2-item-35dd60899c-button"><div class="layout-container container responsivegrid">
+
+    
+    
+    
+    <div id="layout-container-0ac436cf9b" class="cmp-container">
+        
+        <div class="list">
+<ul id="list-435a30f2a1" class="cmp-list">
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/terms-and-conditions.html">
+            <span class="cmp-list__item-title">Terms and conditions</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/privacy-policy.html">
+            <span class="cmp-list__item-title">Privacy policy</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/cookies.html">
+            <span class="cmp-list__item-title">Cookies</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/safety-information.html">
+            <span class="cmp-list__item-title">Safety information</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/accessibility.html">
+            <span class="cmp-list__item-title">Accessibility statement</span>
+            
+        </a>
+        
+    </article>
+</li>
+
+    <li class="cmp-list__item">
+    <article>
+        <a class="cmp-list__item-link" href="/information/flex-your-stay.html">
+            <span class="cmp-list__item-title">Flex Your Stay</span>
+            
+        </a>
+        
+    </article>
+</li>
+</ul>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+    </div>
+
+    
+</div>
+</div>
+<div class="layout-container container responsivegrid aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--12 aem-GridColumn--tablet--4 aem-GridColumn--tablet--none aem-GridColumn--phone--newline aem-GridColumn aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+
+    
+    
+    
+    <div id="social-icons" class="cmp-container">
+        
+        <div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-e1a5cdf515" class="cmp-button" href="https://www.facebook.com/CenterParcsUK" aria-label="facebook">
+    
+    <span class="cmp-button__icon cmp-button__icon--facebook" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-8009f68fe3" class="cmp-button" href="https://twitter.com/CenterParcsUK" aria-label="twitter">
+    
+    <span class="cmp-button__icon cmp-button__icon--twitter" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-66abbcf251" class="cmp-button" href="https://www.youtube.com/user/CenterParcsUK?ob=0&feature=results_main" aria-label="YouTube">
+    
+    <span class="cmp-button__icon cmp-button__icon--youtube" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-38b198d585" class="cmp-button" href="https://www.pinterest.com/centerparcsuk/" aria-label="pinterest">
+    
+    <span class="cmp-button__icon cmp-button__icon--pinterest" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-81ce29b3e9" class="cmp-button" href="https://blog.centerparcs.co.uk" aria-label="blog">
+    
+    <span class="cmp-button__icon cmp-button__icon--blog" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="button uxp-component cmp-button--icon-only cmp-button--inline">
+<a id="button-e0a3ab716a" class="cmp-button" href="https://www.instagram.com/centerparcsuk/" aria-label="instagram">
+    
+    <span class="cmp-button__icon cmp-button__icon--instagram" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="newsletter"><div class="footer__signup__form">
+    <label class="footer__list__title" for="signup">
+        Sign up for emails to receive the latest Center Parcs news, offers, updates and, if you have a break booked, information on your exclusive Come Back Soon offer for £50 off your next break
+    </label>
+    <div class="js-newsletter-non-logged-in hide">
+        
+        <input type="email" class="" name="signup" id="signup" placeholder="Enter Email Address"/>
+        <a class="btn js-newletter-signup" href="#" target="">
+            <span>Sign Up</span>
+        </a>
+    </div>
+    <a href="#" class="js-newsletter-change-preference hide">
+        Update your communication preferences
+    </a>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+</div></div>
+
+    
+</div>
+
+    
+</div>
+</footer>
+
+    
+</div>
+</div>
+ 
+
+
+
+
+    <!-- Root element of PhotoSwipe. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <div class="pswp__bg"></div>
+
+    <div class="pswp__scroll-wrap">
+
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <div class="pswp__counter"></div>
+
+                <button type="button" class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button type="button" class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button type="button" class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button type="button" class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button type="button" class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button type="button" class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+    
+<div id="important-data" class="hidden">
+
+
+
+{
+    "homePageURL":"/",
+    "getAtcoreIframeUrl":"/content/centerparcs/uk/en/jcr:content.getatcore.json",
+    "cancelActivityUrl":"/content/centerparcs/uk/en/jcr:content.cancelActivity.json",
+    "updateGuestFromBooking":"/content/centerparcs/uk/en/jcr:content.updateGuest.json",
+    "updatePreregDetails":"/content/centerparcs/uk/en/jcr:content.updatePreregDetails.json",
+    "accommodationBookUrl":"/content/centerparcs/uk/en/jcr:content.accommodationBook.json",
+    "activityBookingConfirmationUrl":"/content/centerparcs/uk/en/jcr:content.activityBookingConfirmation.json",
+    "inviteToBookingUrl":"/content/centerparcs/uk/en/jcr:content.inviteToBooking.json",
+    "postCodeLookup":"/content/centerparcs/uk/en/jcr:content.postcodeservice.json",
+    "locationBookUrl":"/content/centerparcs/uk/en/jcr:content.locationBook.json",
+    "offerCodeUrl":"/content/centerparcs/uk/en/jcr:content.offerCode.json",
+    "bookActivityUrl":"/content/centerparcs/uk/en/jcr:content.activitybook.json",
+    "addressValidationUrl":"/content/centerparcs/uk/en/jcr:content.addressvalidation.json",
+    "activityCheckAvailabilityServletUrl":"/content/centerparcs/uk/en/jcr:content.activityCheckAvailability.json",
+    "favoriteServiceUrl":"/content/centerparcs/uk/en/jcr:content.favourites.json",
+    "getGuestProfileUrl":"/content/centerparcs/uk/en/jcr:content.getGuestProfile.json",
+    "updateGuestProfileUrl":"/content/centerparcs/uk/en/jcr:content.guestProfileUpdate.json",
+    "accommodationSearchPageURL":"/breaks-we-offer/search.html",
+    "activitySearchBookingPageURL":"/my-account/mybooking/upComingBooking/book-things-to-do.html",
+    "activitySearchBrochurePageURL":"/discover-center-parcs/things-to-do.html",
+    "locationPageURL":"/checkout/location.html",
+    "enhancementPageURL":"/checkout/enhancements.html",
+    "personalDetailsPageURL":"/my-account/my-profile.html",
+    "yourDetailsPageURL":"/checkout/your-details.html",
+    "guestDetailsPageURL":"/checkout/guest-details.html",
+    "paymentPageURL":"/checkout/payment.html",
+    "confirmationPageURL":"/checkout/booking-confirmation.html",
+    "confirmationErrorPageURL":"/errors/booking-failure.html",
+    "confirmationBackErrorPageURL":"",
+    "raceConditionErrorURL":"/errors/400errorpage.html",
+    "accommodationResetWarningLabel":"Are you sure?",
+    "accommodationResetWarningMessage":"Continuing will clear your basket. Would you still like to continue?",
+    "accommodationResetWarningOkButton":"OK",
+    "accommodationResetWarningCancelButton":"Cancel",
+    "signInPageURL":"/my-account/sign-in.html",
+    "signUpPageURL":"",
+    "newsletterSignInUrl":"/my-account/sign-in.html",
+    "newsletterSignUpURL":"/my-account/sign-up.html",
+    "myPreferencePageURL":"/my-account/my-profile.html",
+    "payBalanceConfirmationPageURL":"/my-account/mybooking/upComingBooking/pay-outstanding-balance/pay-outstanding-confirmation.html",
+    "bookingOverviewPageURL":"/my-account/mybooking/upComingBooking/booking-overview.html",
+    "bookingSearchPageURL":"/search.html",
+    "allBookingPageURL":"/my-account/mybooking/myAllBooking/view-all-centerparcs-bookings.html",
+    "payOutstandingBalanceURL":"/my-account/mybooking/upComingBooking/pay-outstanding-balance.html",
+    "bookingErrorPageURL":"/errors/booking-failure.html",
+    "atcoreErrorPageURL":"Sorry,%20seems%20we%20are%20experiencing%20difficulties%20in%20processing%20your%20payment.%20Please%20try%20again.",
+    "tsl": 1200,
+    "chBookingDataRefreshTime": "0",
+    "sessionExpireWarningLabel":"Session",
+    "sessionExpireWarningMessage":"Your booking session has expired",
+    "sessionExpireWarningOkButton":"Go to Home Page",
+    "confirmActivityCanNotBeRemovedMessage":"This item cannot be removed as it is a confirmed booking",
+    "bookActivitiesURL":"/my-account/mybooking/upComingBooking/book-things-to-do.html",
+    "bookActivitiesURLSuffix": "/${villageCode}/${arrivalDate}/${departureDate}/activities",
+    "currentSiteDateFormat": "true",
+    "activitiesPaymentPageURL":"/my-account/mybooking/upComingBooking/book-things-to-do/activities-payment.html",
+    "termsAndConditionsPageURL":"/information/terms-and-conditions.html",
+    "activitiesBookingFailurePageURL":"/my-account/mybooking/upComingBooking/book-things-to-do/activity-full-failure.html",
+    "activitiesPartialFailurePageURL":"/my-account/mybooking/upComingBooking/book-things-to-do/activity-partial-failure.html",
+    "activitiesBookingConfirmationPageUrl":"/my-account/mybooking/upComingBooking/book-things-to-do/activities-confirmation.html",
+    "activitiesCheckAvailabilityPageUrl":"/my-account/mybooking/upComingBooking/book-things-to-do/checkavailability.html",
+    "pageNotFoundPageUrl":"/errors/404.html",
+    "signOutPageURL":"https://www.centerparcs.co.uk/my-account/sign-in.html",
+    "bookingReferenceAppendedURLs":null,
+    "associatedDomainLogoutUrls": [&#34;https://www.centerparcs.co.uk/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.centerparcs.ie/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.aquasana.co.uk/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.aquasana.ie/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;],
+    "domainFlag": "CPUK"
+}
+</div>
+<template id="defaultUnauthorizedLoginMessage">
+    Register/Login
+</template>
+
+    
+
+    
+    
+    
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.ACSHASH3e24d4d067ac58228b5004abb50344ef.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.ACSHASH3b86602c4e1e0b41d9673f674a75cd4b.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.ACSHASH011c0fc0d0cf131bdff879743a353002.js"></script>
+<script src="/etc.clientlibs/centerparcs/clientlibs/jquery.min.ACSHASHdd9b395c741ce2784096e26619e14910.js"></script>
+<script src="/etc.clientlibs/centerparcs/clientlibs/shared.min.ACSHASH365ee17ed93ad49bc205573142b1f4f7.js"></script>
+<script src="/etc.clientlibs/uxp-commons/microsites/clientlibs/clientlib-common.min.ACSHASHe455e4cc714756b79234b2341d92cb93.js"></script>
+<script src="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH9434950dccfdec4cb05b34a82e0039a1.js"></script>
+
+
+
+    
+    
+
+
+
+
+    
+    <div class="cloudservice gigyacore">
+
+
+
+
+
+
+<script type="text/javascript">
+    (function () {
+        var insertValidationPlugin = function() { //used in gig.onload, see below
+            var validationPlugin = document.createElement('script');
+            validationPlugin.type = 'text/javascript';
+            validationPlugin.async = true;
+            validationPlugin.src = '//cdn.gigya-ext.com/screenset-validation.min.js';
+            document.getElementsByTagName('head')[0].appendChild(validationPlugin);
+        }
+        var gig = document.createElement('script');
+            gig.type = 'text/javascript';
+            gig.async = true;
+            gig.src = ('https:' == document.location.protocol ? 'https://cdns' : 'http://cdn') + '.gigya.com/js/gigya.js?apiKey=3_EdyGQOF3W-v9iCjN2Rbw6Cw1MFKvHv4hzHxSgpiglO4fdc3dYpi5PU7GU2oPyXFP&lang=en';
+            //we need to load the validation plugin after the main '.gigya.com/js/gigya.js...' has loaded
+            gig.onload = insertValidationPlugin; //Note onload support - http://kangax.github.io/jstests/script-element-onload-attribute-support/
+            document.getElementsByTagName('head')[0].appendChild(gig);
+
+            window.__gigyaApiKey = '3_EdyGQOF3W-v9iCjN2Rbw6Cw1MFKvHv4hzHxSgpiglO4fdc3dYpi5PU7GU2oPyXFP';
+            window.__gigyaConfName = 'centerparcs';
+    })();
+
+    
+
+</script>
+
+</div>
+
+
+
+    
+
+    
+
+
+        <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.min.ACSHASH904d3c2f1e821ab45124d66de422b409.js"></script>
+
+
+
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons&display=swap" rel="stylesheet" media="print" onload="this.media='all'; this.onload=null;"/>
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+# The use of robots or other automated means to access the Center Parcs site
+# without the express permission of Center Parcs is strictly prohibited.
+# Notwithstanding the foregoing, Center Parcs may permit automated access to
+# access certain Center Parcs pages but solely for the limited purpose of
+# including content in publicly available search engines. Any other
+# use of robots or failure to obey the robots exclusion standards set
+# forth at http://www.robotstxt.org/ is strictly prohibited.
+
+# Details about Googlebot available at: https://www.google.com/bot.html
+# The Google search engine can see everything
+User-agent: *
+Allow: /*.html
+Disallow: /cyberworld/map/ # This is an infinite virtual URL space
+Disallow: /tmp
+Disallow: /var
+Disallow: /crx
+Disallow: /system
+Disallow: /lib*
+Disallow: /search
+Disallow: /console
+Disallow: /cgi-local/
+Disallow: /*special/
+Disallow: /*.sql$
+Disallow: /*.translate.html
+Disallow: /*.infinity
+Disallow: /*.json
+Disallow: /breaks-we-offer/search.html/
+Disallow: /checkout/
+
+Sitemap: https://www.centerparcs.co.uk/sitemap.xml
