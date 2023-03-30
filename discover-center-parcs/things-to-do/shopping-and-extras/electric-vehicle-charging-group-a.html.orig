@@ -33,7 +33,7 @@
     
      
     
-<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-critical.min.ACSHASHd627b2d6264ee65be123bc5b165303d4.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-critical.min.ACSHASHfbd1541b2d4bd4db1b425afaf9e09918.css" type="text/css">
 
 
      
@@ -58,7 +58,7 @@
 
     
     
-<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH925d9dd7c937c3fc9f02cd2de4c65088.css" media="print" type="text/css" onload="this.media='all'">
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH507d5d6c48a5073f7376b9a2ccf2e225.css" media="print" type="text/css" onload="this.media='all'">
 
 
 
@@ -89,7 +89,7 @@
 
                 /* setting initial constants */
                 ContextHub.Constants = ContextHub.Constants || {};
-                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/S/SY-kG1AC-owC_x1tQu9X";
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/F/FG1_Oc0mBESxIo-f2oFx";
                 ContextHub.Constants.MODE = "no-ui";
             }());
         </script><script src="/etc/cloudsettings.kernel.js/conf/centerparcs/settings/cloudsettings/centerparcs/contexthub" type="text/javascript"></script>
@@ -1388,14 +1388,14 @@
     <div title="car being charged " tabindex="0" class="short hero js-background-has-image pos-center">
     
     <picture>
-        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/320/optimal/image.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/620/optimal/image.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/1024/optimal/image.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.webp 1200w"/>
-<source srcset="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/320/optimal/image.1678368230247.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/620/optimal/image.1678368230247.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/1024/optimal/image.1678368230247.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.1678368230247.jpg 1200w"/>
+        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/320/optimal/image.ev_charger_hero.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/620/optimal/image.ev_charger_hero.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/1024/optimal/image.ev_charger_hero.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.ev_charger_hero.webp 1200w"/>
+<source srcset="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/320/optimal/image.ev_charger_hero.1678368230247.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/620/optimal/image.ev_charger_hero.1678368230247.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/1024/optimal/image.ev_charger_hero.1678368230247.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/jcr:content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.ev_charger_hero.1678368230247.jpg 1200w"/>
 
 
         
 
     	
-        <img src="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/_jcr_content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.1678368230247.jpg" alt="car being charged " class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
+        <img src="/content/centerparcs/uk/en/discover-center-parcs/things-to-do/shopping-and-extras/electric-vehicle-charging-group-a/_jcr_content/root/responsivegrid/heroimage.transform.1678368230247.jpg/optimal/image.ev_charger_hero.1678368230247.jpg" alt="car being charged " class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
     	
 
     </picture>
@@ -2244,7 +2244,7 @@
     "activitiesCheckAvailabilityPageUrl":"/my-account/mybooking/upComingBooking/book-things-to-do/checkavailability.html",
     "pageNotFoundPageUrl":"/errors/404.html",
     "signOutPageURL":"https://www.centerparcs.co.uk/my-account/sign-in.html",
-    "bookingReferenceAppendedURLs":null,
+    "bookingReferenceAppendedURLs":[&#34;/my-account/mybooking/upComingBooking/pay-outstanding-balance/pay-outstanding-confirmation.html&#34;,&#34;/my-account/mybooking/upComingBooking/vehicle-details.html&#34;,&#34;/my-account/mybooking/upComingBooking/booking-overview/detailed-receipt.html&#34;,&#34;/my-account/mybooking/upComingBooking/itinerary.html&#34;,&#34;/my-account/mybooking/upComingBooking/booking-overview.html&#34;,&#34;/my-account/mybooking/upComingBooking/guest-details.html&#34;,&#34;/my-account/mybooking/upComingBooking/pay-outstanding-balance.html&#34;],
     "associatedDomainLogoutUrls": [&#34;https://www.centerparcs.co.uk/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.centerparcs.ie/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.aquasana.co.uk/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;,&#34;https://www.aquasana.ie/services/uxp/logout?resource\u003d/etc.clientlibs/centerparcs/clientlibs/main/resources/images/ui-icon-logout-1x1.png&#34;],
     "domainFlag": "CPUK"
 }
@@ -2266,7 +2266,7 @@
 <script src="/etc.clientlibs/centerparcs/clientlibs/jquery.min.ACSHASHdd9b395c741ce2784096e26619e14910.js"></script>
 <script src="/etc.clientlibs/centerparcs/clientlibs/shared.min.ACSHASH365ee17ed93ad49bc205573142b1f4f7.js"></script>
 <script src="/etc.clientlibs/uxp-commons/microsites/clientlibs/clientlib-common.min.ACSHASHe455e4cc714756b79234b2341d92cb93.js"></script>
-<script src="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH9434950dccfdec4cb05b34a82e0039a1.js"></script>
+<script src="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASHddadb7f0ea4ddddc5d843b4a676c4eef.js"></script>
 
 
 

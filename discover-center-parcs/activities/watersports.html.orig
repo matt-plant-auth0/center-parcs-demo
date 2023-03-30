@@ -33,7 +33,7 @@
     
      
     
-<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-critical.min.ACSHASHd627b2d6264ee65be123bc5b165303d4.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-critical.min.ACSHASHfbd1541b2d4bd4db1b425afaf9e09918.css" type="text/css">
 
 
      
@@ -58,7 +58,7 @@
 
     
     
-<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH925d9dd7c937c3fc9f02cd2de4c65088.css" media="print" type="text/css" onload="this.media='all'">
+<link rel="stylesheet" href="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH507d5d6c48a5073f7376b9a2ccf2e225.css" media="print" type="text/css" onload="this.media='all'">
 
 
 
@@ -1388,14 +1388,14 @@
     <div title="Watersports on the lake" tabindex="0" class="short hero js-background-has-image pos-center">
     
     <picture>
-        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/320/optimal/image.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/620/optimal/image.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/1024/optimal/image.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.webp 1200w"/>
-<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/320/optimal/image.1666364161467.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/620/optimal/image.1666364161467.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/1024/optimal/image.1666364161467.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.1666364161467.jpg 1200w"/>
+        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/320/optimal/image.watersports-hero.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/620/optimal/image.watersports-hero.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/1024/optimal/image.watersports-hero.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.watersports-hero.webp 1200w"/>
+<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/320/optimal/image.watersports-hero.1666364161467.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/620/optimal/image.watersports-hero.1666364161467.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/1024/optimal/image.watersports-hero.1666364161467.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.watersports-hero.1666364161467.jpg 1200w"/>
 
 
         
 
     	
-        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.1666364161467.jpg" alt="Watersports on the lake" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
+        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/heroimage.transform.1666364161467.jpg/optimal/image.watersports-hero.1666364161467.jpg" alt="Watersports on the lake" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
     	
 
     </picture>
@@ -2258,12 +2258,12 @@
             <div class="image-container item-block__img js-background-has-image">
     
     <picture>
-        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/320/optimal/image.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/620/optimal/image.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/1024/optimal/image.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.webp 1200w"/>
-<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/320/optimal/image.1666364161535.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/620/optimal/image.1666364161535.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/1024/optimal/image.1666364161535.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.1666364161535.jpg 1200w"/>
+        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/320/optimal/image.watersports-pod-electric-boats.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/620/optimal/image.watersports-pod-electric-boats.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/1024/optimal/image.watersports-pod-electric-boats.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.watersports-pod-electric-boats.webp 1200w"/>
+<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/320/optimal/image.watersports-pod-electric-boats.1666364161535.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/620/optimal/image.watersports-pod-electric-boats.1666364161535.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/1024/optimal/image.watersports-pod-electric-boats.1666364161535.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.watersports-pod-electric-boats.1666364161535.jpg 1200w"/>
 
 
         
-        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.1666364161535.jpg" alt="" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
+        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_1007860158/image.transform.1666364161535.jpg/optimal/image.watersports-pod-electric-boats.1666364161535.jpg" alt="" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
     	
 
     	
@@ -2335,12 +2335,12 @@
             <div class="image-container item-block__img js-background-has-image">
     
     <picture>
-        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/320/optimal/image.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/620/optimal/image.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/1024/optimal/image.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.webp 1200w"/>
-<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/320/optimal/image.1666364161555.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/620/optimal/image.1666364161555.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/1024/optimal/image.1666364161555.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.1666364161555.jpg 1200w"/>
+        <source type="image/webp" srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/320/optimal/image.watersports-pod-crafthire.webp 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/620/optimal/image.watersports-pod-crafthire.webp 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/1024/optimal/image.watersports-pod-crafthire.webp 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.watersports-pod-crafthire.webp 1200w"/>
+<source srcset="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/320/optimal/image.watersports-pod-crafthire.1666364161555.jpg 320w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/620/optimal/image.watersports-pod-crafthire.1666364161555.jpg 620w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/1024/optimal/image.watersports-pod-crafthire.1666364161555.jpg 1024w,/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/jcr:content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.watersports-pod-crafthire.1666364161555.jpg 1200w"/>
 
 
         
-        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.1666364161555.jpg" alt="" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
+        <img src="/content/centerparcs/uk/en/discover-center-parcs/activities/watersports/_jcr_content/root/responsivegrid/wrapper-parsys/responsivegrid/textimage_copy_copy/image.transform.1666364161555.jpg/optimal/image.watersports-pod-crafthire.1666364161555.jpg" alt="" class="custom-object-fit object-fit-cover object-fit-center" data-object-fit="cover" data-object-fit-position="center" loading="lazy"/>
     	
 
     	
@@ -2947,7 +2947,7 @@
 <script src="/etc.clientlibs/centerparcs/clientlibs/jquery.min.ACSHASHdd9b395c741ce2784096e26619e14910.js"></script>
 <script src="/etc.clientlibs/centerparcs/clientlibs/shared.min.ACSHASH365ee17ed93ad49bc205573142b1f4f7.js"></script>
 <script src="/etc.clientlibs/uxp-commons/microsites/clientlibs/clientlib-common.min.ACSHASHe455e4cc714756b79234b2341d92cb93.js"></script>
-<script src="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASH9434950dccfdec4cb05b34a82e0039a1.js"></script>
+<script src="/etc.clientlibs/centerparcs/clientlibs/clientlib-site.min.ACSHASHddadb7f0ea4ddddc5d843b4a676c4eef.js"></script>
 
 
 
